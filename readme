@@ -1,0 +1,6 @@
+1. Create a simple text file (e.g., 'testfile.txt') and write something in it.
+2. Use a tool like 'hash calculator' hash generator to get its SHA-256 hash.
+3. Change the file extension to something else (e.g., 'testfile.pdf').
+4. Recalculate the SHA-256 hash.
+5. Compare both hash values. If they match, the file content is the same, proving file integrity. If not,
+the file was altered.
